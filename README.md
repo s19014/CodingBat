@@ -1,1 +1,1 @@
-# CodingBut
+# CodingBat
